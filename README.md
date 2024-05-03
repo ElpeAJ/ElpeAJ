@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ElpeAJ
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning PHP, Javascript, Python, Angular, React
+- 🌱 I’m currently learning Javascript, React and ReactNative
 - 💞️ I’m looking to collaborate on project using HTML, CSS, Bootstrap, Javascript, Python & SQL at the moment.
 - 📫 How to reach me www.linkedin.com/in/elpedia-arthur-3767b8152
 
