@@ -11,7 +11,6 @@
 <p>Welcome to my digital playground!  Here, I showcase my passion for creating beautiful and interactive web experiences through the power of code.  While front-end development holds a special place in my heart, my thirst for knowledge keeps me exploring various programming languages.</p>
 
 <h5>Technical Skills:</h5>
-
              <h6> Front-End Development:</h6>
 - HTML
 - CSS
