@@ -11,20 +11,20 @@
 <p>Welcome to my digital playground!  Here, I showcase my passion for creating beautiful and interactive web experiences through the power of code.  While front-end development holds a special place in my heart, my thirst for knowledge keeps me exploring various programming languages.</p>
 
 <h5>Technical Skills:</h5>
-<!---
-Front-End Development:
-HTML
-CSS
-JavaScript 🪄
-React ⚛️
-Back-End Development:
-Python
-Systems Programming:
-C ⚙️
+
+             <h6> Front-End Development:</h6>
+- HTML
+- CSS
+- JavaScript 🪄
+- React ⚛️
+              <h6>Back-End Development:</h6>
+- Python
+              <h6>Systems Programming:</h6>
+- C ⚙️
+  
 Always Learning, Always Growing
-
 I'm a firm believer in continuous learning and strive to stay ahead of the curve by exploring new technologies and methodologies.  My journey in the tech world is fueled by a desire to push boundaries and create impactful web applications.
-
+<!---
 Let's Connect!
 
 LinkedIn: [LinkedIn URL elpedia ON linkedin.com] (coming soon!)
