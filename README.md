@@ -12,8 +12,8 @@
 
 <h5>Technical Skills:</h5>
              <h6> Front-End Development:</h6>
-- HTML <br>
-- CSS <br>
+<li>HTML </li> 
+<li>CSS</li> 
 - JavaScript 🪄<br>
 - React ⚛️ <br>
               <h6>Back-End Development:</h6>
