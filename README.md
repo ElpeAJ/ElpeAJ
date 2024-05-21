@@ -12,10 +12,10 @@
 
 <h5>Technical Skills:</h5>
              <h6> Front-End Development:</h6>
-- HTML
-- CSS
-- JavaScript 🪄
-- React ⚛️
+- HTML <br>
+- CSS <br>
+- JavaScript 🪄<br>
+- React ⚛️ <br>
               <h6>Back-End Development:</h6>
 - Python
               <h6>Systems Programming:</h6>
