@@ -24,15 +24,11 @@
   
 Always Learning, Always Growing
 I'm a firm believer in continuous learning and strive to stay ahead of the curve by exploring new technologies and methodologies.  My journey in the tech world is fueled by a desire to push boundaries and create impactful web applications.
-<!---
 <h5>Let's Connect!</h5>
 
 📫 LinkedIn: www.linkedin.com/in/elpedia-arthur-3767b8152
 🌱 Website: under construction
 
-
-
---->
 <!---
 ElpeAJ/ElpeAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
