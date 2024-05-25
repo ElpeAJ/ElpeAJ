@@ -26,7 +26,7 @@ Always Learning, Always Growing
 I'm a firm believer in continuous learning and strive to stay ahead of the curve by exploring new technologies and methodologies.  My journey in the tech world is fueled by a desire to push boundaries and create impactful web applications.
 <h5>Let's Connect!</h5>
 
-📫 LinkedIn: www.linkedin.com/in/elpedia-arthur-3767b8152
+📫 LinkedIn: https://www.linkedin.com/in/elpediaarthur
 🌱 Website: under construction
 
 <!---
