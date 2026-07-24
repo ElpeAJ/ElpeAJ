@@ -1,35 +1,51 @@
-<!---
-- 👋 Hi, I’m @ElpeAJ
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Javascript, React and ReactNative
-- 💞️ I’m looking to collaborate on project using HTML, CSS, Bootstrap, Javascript, React, Python & SQL at the moment.
-- 📫 How to reach me www.linkedin.com/in/elpedia-arthur-3767b8152
---->
+# 👋 Hi, I'm Elpedia J. Arthur
 
-<h1>👋 Hi, I'm Elpedia J. Arthur</h1>
-<h4>Front-End Developer Enthusiast</h4>
+### 🚀 Front-End Developer | Aspiring AI & Cybersecurity Specialist
 
-<p>Welcome to my digital playground! 👀 Here, I showcase my passion for creating beautiful and interactive web experiences through the power of code.  While front-end development holds a special place in my heart, my thirst for knowledge keeps me exploring various programming languages.</p>
+Welcome to my digital playground! I am a passionate developer focused on creating beautiful, interactive web experiences. While my core is in front-end development, I am actively expanding my expertise to build intelligent, secure applications by diving deep into **Artificial Intelligence** and **Cybersecurity**.
 
-<h5>Technical Skills:</h5>
-             <h6> 💞️  Front-End Development:</h6>
-<li>HTML </li> 
-<li>CSS</li> 
-<li>JavaScript 🪄</li>
-<li>React ⚛️ </li>
-              <h6>Back-End Development:</h6>
-<li>Python</li>
-              <h6>Systems Programming:</h6>
-<li>C ⚙️</li>
-  
-Always Learning, Always Growing
-I'm a firm believer in continuous learning and strive to stay ahead of the curve by exploring new technologies and methodologies.  My journey in the tech world is fueled by a desire to push boundaries and create impactful web applications.
-<h5>Let's Connect!</h5>
+---
 
-📫 LinkedIn: https://www.linkedin.com/in/elpediaarthur
-🌱 Website: under construction
+## 💡 My Core Focus
+* **Secure Front-End:** Building robust React and React Native applications resistant to client-side vulnerabilities.
+* **AI-Driven Interfaces:** Integrating machine learning models and LLM APIs into user-friendly web interfaces.
+* **Full-Stack Security:** Leveraging Python, C, and SQL to understand low-level systems and secure backend data.
 
-<!---
-ElpeAJ/ElpeAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Technical Toolkit
+
+### 🎨 Front-End Development
+* **Languages:** HTML5, CSS3, JavaScript (ES6+)
+* **Frameworks/Libraries:** React ⚛️, React Native, Bootstrap
+
+### 🐍 Back-End & Systems
+* **Languages:** Python, C ⚙️
+* **Databases:** SQL
+
+### 🛡️ AI & Cybersecurity (Actively Learning)
+* OWASP Top 10, Secure Coding Practices, AI API Integration
+
+---
+
+## 🔬 Featured Projects (Weekend Sprints!)
+
+### 🤖 [Project 1: Secure AI Web Interface] *(Coming Soon)*
+* **Concept:** A clean React dashboard that connects to an AI text-generation API with built-in client-side input sanitization.
+* **Tech Stack:** React, JavaScript, Python, TailwindCSS.
+
+### 🛡️ [Project 2: Client-Side Vulnerability Scanner] *(Coming Soon)*
+* **Concept:** A Python-based script that audits basic web components for common security flaws like XSS vulnerabilities.
+* **Tech Stack:** Python, SQL.
+
+---
+
+## 💞️ Collaboration & Connecting
+
+I am looking to collaborate on open-source projects using **HTML, CSS, Bootstrap, JavaScript, React, Python, and SQL**. 
+
+* 💼 **LinkedIn:** [linkedin.com/in/elpediaarthur](https://www.linkedin.com/in/elpediaarthur)
+* 🌱 **Website:** Under construction 🏗️
+
+---
+*ElpeAJ/ElpeAJ is a ✨ special ✨ repository because its README.md appears on your GitHub profile.*
