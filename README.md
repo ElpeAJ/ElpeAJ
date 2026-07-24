@@ -44,8 +44,8 @@ Welcome to my digital playground! I am a passionate developer focused on creatin
 
 I am looking to collaborate on open-source projects using **HTML, CSS, Bootstrap, JavaScript, React, Python, and SQL**. 
 
-* 💼 **LinkedIn:** [linkedin.com/in/elpediaarthur](https://www.linkedin.com/in/elpediaarthur)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/elpediaarthur
 * 🌱 **Website:** Under construction 🏗️
 
 ---
-*ElpeAJ/ElpeAJ is a ✨ special ✨ repository because its README.md appears on your GitHub profile.*
+
