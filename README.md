@@ -14,6 +14,19 @@ Welcome to my digital playground! I am a passionate developer focused on creatin
 ---
 
 ## 🛠️ Technical Toolkit
+### 🛠️ Technical Toolkit
+
+**Front-End:**
+[<img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />](https://mozilla.org)
+[<img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />](https://mozilla.org)
+[<img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />](https://mozilla.org)
+[<img src="https://jsdelivr.net" width="40" height="40" alt="React" />](https://react.dev)
+[<img src="https://jsdelivr.net" width="40" height="40" alt="Bootstrap" />](https://getbootstrap.com)
+
+**Back-End:**
+[<img src="https://jsdelivr.net" width="40" height="40" alt="Python" />](https://python.org)
+[<img src="https://jsdelivr.net" width="40" height="40" alt="C Programming" />](https://cppreference.com)
+[<img src="https://jsdelivr.net" width="40" height="40" alt="SQL/MySQL" />](https://mysql.com)
 
 ### 🎨 Front-End Development
 * **Languages:** HTML5, CSS3, JavaScript (ES6+)
