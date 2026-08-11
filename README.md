@@ -1,76 +1,12 @@
 # 👋 Hi, I'm Elpedia J. Arthur
 
-### 🚀 Front-End Developer | Aspiring AI & Cybersecurity Specialist
-
-Welcome to my digital playground! I am a passionate developer focused on creating beautiful, interactive web experiences. While my core is in front-end development, I am actively expanding my expertise to build intelligent, secure applications by diving deep into **Artificial Intelligence** and **Cybersecurity**.
-
----
-
-## 💡 My Core Focus
-* **Secure Front-End:** Building robust React and React Native applications resistant to client-side vulnerabilities.
-* **AI-Driven Interfaces:** Integrating machine learning models and LLM APIs into user-friendly web interfaces.
-* **Full-Stack Security:** Leveraging Python, C, and SQL to understand low-level systems and secure backend data.
-
----
-
-## 🛠️ Technical Toolkit
-### 🛠️ Technical Toolkit
-
-**Front-End:**
-<img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" />
-[<img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" />](https://mozilla.org)
-[<img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" />](https://mozilla.org)
-[<img src="https://jsdelivr.net" width="40" height="40" alt="React" />](https://react.dev)
-[<img src="https://jsdelivr.net" width="40" height="40" alt="Bootstrap" />](https://getbootstrap.com)
-
-**Back-End:**
-[<img src="https://jsdelivr.net" width="40" height="40" alt="Python" />](https://python.org)
-[<img src="https://jsdelivr.net" width="40" height="40" alt="C Programming" />](https://cppreference.com)
-[<img src="https://jsdelivr.net" width="40" height="40" alt="SQL/MySQL" />](https://mysql.com)
-
-### 🎨 Front-End Development
-* **Languages:** HTML5, CSS3, JavaScript (ES6+)
-* **Frameworks/Libraries:** React ⚛️, React Native, Bootstrap
-
-### 🐍 Back-End & Systems
-* **Languages:** Python, C ⚙️
-* **Databases:** SQL
-
-### 🛡️ AI & Cybersecurity (Actively Learning)
-* OWASP Top 10, Secure Coding Practices, AI API Integration
-
----
-
-## 🔬 Featured Projects (Weekend Sprints!)
-
-### 🤖 [Project 1: Secure AI Web Interface] *(Coming Soon)*
-* **Concept:** A clean React dashboard that connects to an AI text-generation API with built-in client-side input sanitization.
-* **Tech Stack:** React, JavaScript, Python, TailwindCSS.
-
-### 🛡️ [Project 2: Client-Side Vulnerability Scanner] *(Coming Soon)*
-* **Concept:** A Python-based script that audits basic web components for common security flaws like XSS vulnerabilities.
-* **Tech Stack:** Python, SQL.
-
----
-
-## 💞️ Collaboration & Connecting
-
-I am looking to collaborate on open-source projects using **HTML, CSS, Bootstrap, JavaScript, React, Python, and SQL**. 
-
-* 💼 **LinkedIn:** https://www.linkedin.com/in/elpediaarthur
-* 🌱 **Website:** Under construction 🏗️
-
----
-
-# 👋 Hi, I'm Elpedia J. Arthur
-
 ### 🚀 Systems Analyst & Full-Stack Engineer | Aspiring Data Scientist & AI Specialist
 
 <p align="left">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p>
 
-Welcome to my digital development ecosystem! I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge the gap between user-centered design and secure backend engineering while actively translating algorithmic theory into production-ready data science implementations.
+Welcome to my digital development ecosystem. I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge the gap between user-centered design and secure backend engineering while actively translating algorithmic theory into production-ready data science implementations.
 
 ---
 
@@ -90,7 +26,7 @@ Welcome to my digital development ecosystem! I am an analytical computing profes
 <img width="80" alt="Python" src="https://github.com/user-attachments/assets/db32e03f-f19e-4cab-aec2-1da7935e0f4d" />
 <img width="80" alt="C Programming" src="https://github.com/user-attachments/assets/6786267a-db95-4100-8294-950996c8b523" />
 <img width="80" alt="C++" src="https://github.com/user-attachments/assets/a5184cfd-b7d5-4789-b47e-66cd3b76baa8" />
-<img width="80" height="447" alt="MySQL" src="https://github.com/user-attachments/assets/40893db3-1b3d-4312-b947-1f2d354e01bf" />
+<img width="80" alt="MySQL" src="https://github.com/user-attachments/assets/40893db3-1b3d-4312-b947-1f2d354e01bf" />
 </p>
 
 ### 🤖 Intelligent Frameworks & Infrastructure
@@ -131,6 +67,21 @@ Welcome to my digital development ecosystem! I am an analytical computing profes
 * **Architecture:** An event-driven data ingestion utility engineered to intercept, map, and output third-party environmental datasets.
 * **Technical Focus:** Promise Lifecycle Resolution, UNIX Timestamp Conversions, Non-blocking DOM Operations, and Error Boundary Array Traversals.
 * **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
+
+---
+
+### 🛡️ AI & Cybersecurity (Actively Learning)
+* Threat Hunting, Malware Analysis, OWASP Top 10, Secure Coding Practices, AI API Integration etc.
+---
+## 🔬 Featured Projects (Monthly Sprints!)
+
+### 🤖 [Project 1: Secure AI Web Interface] *(Coming Soon)*
+* **Concept:** A clean React dashboard that connects to an AI text-generation API with built-in client-side input sanitization.
+* **Tech Stack:** React, JavaScript, Python, TailwindCSS.
+
+### 🛡️ [Project 2: Client-Side Vulnerability Scanner] *(Coming Soon)*
+* **Concept:** A Python-based script that audits basic web components for common security flaws like XSS vulnerabilities.
+* **Tech Stack:** Python, SQL.
 
 ---
 
