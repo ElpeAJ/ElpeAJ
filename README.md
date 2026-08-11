@@ -1,12 +1,14 @@
-<p align="left">
+<!-- <p align="left">
   <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
+</p> -->
 
 # 👋 Hi, I'm Elpedia J. Arthur
 
 ### 🚀 Systems Analyst & Full-Stack Engineer | Aspiring Data Scientist & AI Specialist
 
-
+> 🎓 **Academic Standing:** BSc (Hons) Computing — **Perfect Cumulative GPA: 4.0 / 4.0**  
+> 🤖 **Credentials:** Intel Certified AI Master Coach (OpenVINO Production Lifecycle)  
+> ⚙️ **Core Focus:** Relational Database Normalization, Full-Stack Architectures, & Systems Analysis  
 
 Welcome to my digital development ecosystem. I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge the gap between user-centered design and secure backend engineering while actively translating algorithmic theory into production-ready data science implementations.
 
@@ -90,6 +92,71 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 ## 👥 Professional Engagement & Networking
 
 * 💼 **LinkedIn Profile:** [linkedin.com/in/elpediaarthur](https://www.linkedin.com/in/elpediaarthur)
+* 🐙 **Primary Research Focus:** Relational Database Normalization, Secure Cryptographic Authentication Methods, Predictive Modeling.
+
+---
+
+
+
+# 👋 Hi, I'm Elpedia J. Arthur
+
+### 🚀 Systems Analyst & Full-Stack Engineer | Aspiring Data Scientist & AI Specialist
+
+
+
+Welcome to my digital development ecosystem! I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge the gap between user-centered design and secure backend engineering while actively translating algorithmic theory into production-ready data science implementations.
+
+---
+
+## 🛠️ Unified Technical Stack
+
+### 💻 Presentation Layer & Client-Side Architectures
+* 🟨 **JavaScript (ES6+)** — Asynchronous execution chains, Promise lifecycles, and event-driven data mapping.
+* 📱 **React Native / Expo** — Native mobile framework compilation and local binary simulator deployments.
+* 🌐 **HTML5 / CSS3** — Structural semantic web architecture, fluid responsive layouts, and animations.
+* 📐 **Bootstrap Layouts** — Elastic breakpoint grid formatting for multi-device cross-compatibility.
+
+### ⚙️ Systems Engineering & Relational Backends
+<p align="left">
+  <img src="https://shields.io" height="30" alt="Python" />
+  <img src="https://shields.io" height="30" alt="C" />
+  <img src="https://shields.io" height="30" alt="C++" />
+  <img src="https://shields.io" height="30" alt="MySQL" />
+</p>
+
+* ⛓️ **Sequelize ORM** — Object-Relational Mapping, automated database schema generation, and query safety.
+* 🚀 **Node.js** — Server-side microservices processing, RESTful API architecture, and token verification.
+
+### 🤖 Intelligent Frameworks & Infrastructure
+* 🧠 **Intel OpenVINO Toolkit** — Advanced computer vision pipelines, model validation, and deployment.
+* 🐚 **Unix Shell & Bash Scripting** — Command-line file manipulations, automation scripts, and systems environments.
+* 🐙 **Git / GitHub Versioning** — Enterprise-grade repository branch handling and collaborative release workflows.
+* 📊 **Agile Infrastructure (Jira)** — Iterative milestone sprint tracking and technical system requirements tracking.
+
+---
+
+## 🔬 Featured Engineering Repositories
+
+### 🛍️ [Smart Grocery App](https://github.com)
+* **Architecture:** Full-stack decoupled ecosystem containing a mobile client platform (`/smart-grocery-mobile`) interacting symmetrically with a robust back-end network structure (`/backend`).
+* **Technical Focus:** Native Mobile Framework Compilation, Asynchronous Request Lifecycles, and Input Validation Logic patterns.
+* **Stack:** React Native, Expo Engine, Node.js API Gateways, Git, Local Device Simulators.
+
+### 🎟️ [Eventvet Ticket Engine](https://github.com)
+* **Architecture:** Decoupled full-stack ticketing engine leveraging an asynchronous client interface supported by a structured database schema layer.
+* **Technical Focus:** Relational Database Migrations via ORMs, Token-Driven Session Hashing, Route Verification Guarding, and Dynamic UI Hydration.
+* **Stack:** Vanilla JavaScript (ES6+), Node.js, Sequelize ORM, MySQL Relational Database, BcryptJS Security.
+
+### ⛅ [Weather Data Pipeline App](https://github.com)
+* **Architecture:** An event-driven data ingestion utility engineered to intercept, map, and output third-party environmental datasets.
+* **Technical Focus:** Promise Lifecycle Resolution, UNIX Timestamp Conversions, Non-blocking DOM Operations, and Error Boundary Array Traversals.
+* **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
+
+---
+
+## 👥 Professional Engagement & Networking
+
+* 💼 **LinkedIn Profile:** [://linkedin.com](https://www.://linkedin.com)
 * 🐙 **Primary Research Focus:** Relational Database Normalization, Secure Cryptographic Authentication Methods, Predictive Modeling.
 
 ---
