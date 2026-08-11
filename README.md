@@ -87,13 +87,10 @@ Welcome to my digital development ecosystem! I am an analytical computing profes
 
 ### ⚙️ Systems Engineering & Relational Backends
 <p align="left"> 
-<img width="40" alt="image" src="https://github.com/user-attachments/assets/db32e03f-f19e-4cab-aec2-1da7935e0f4d" />
-<img width="40" alt="image" src="https://github.com/user-attachments/assets/6786267a-db95-4100-8294-950996c8b523" />
-  <img src="https://shields.io" alt="C" />
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Sequelize" />
-  <img src="https://shields.io" alt="NodeJS" />
+<img width="80" alt="Python" src="https://github.com/user-attachments/assets/db32e03f-f19e-4cab-aec2-1da7935e0f4d" />
+<img width="80" alt="C Programming" src="https://github.com/user-attachments/assets/6786267a-db95-4100-8294-950996c8b523" />
+<img width="80" alt="C++" src="https://github.com/user-attachments/assets/a5184cfd-b7d5-4789-b47e-66cd3b76baa8" />
+<img width="80" height="447" alt="MySQL" src="https://github.com/user-attachments/assets/40893db3-1b3d-4312-b947-1f2d354e01bf" />
 </p>
 
 ### 🤖 Intelligent Frameworks & Infrastructure
