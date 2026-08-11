@@ -1,10 +1,12 @@
+<p align="left">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Elpedia J. Arthur
 
 ### 🚀 Systems Analyst & Full-Stack Engineer | Aspiring Data Scientist & AI Specialist
 
-<p align="left">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p>
+
 
 Welcome to my digital development ecosystem. I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge the gap between user-centered design and secure backend engineering while actively translating algorithmic theory into production-ready data science implementations.
 
