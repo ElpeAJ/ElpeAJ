@@ -86,8 +86,9 @@ Welcome to my digital development ecosystem! I am an analytical computing profes
 </p>
 
 ### ⚙️ Systems Engineering & Relational Backends
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
+<p align="left"> 
+<img width="700" height="393" alt="image" src="https://github.com/user-attachments/assets/db32e03f-f19e-4cab-aec2-1da7935e0f4d" />
+<img width="622" height="321" alt="image" src="https://github.com/user-attachments/assets/6786267a-db95-4100-8294-950996c8b523" />
   <img src="https://shields.io" alt="C" />
   <img src="https://shields.io" alt="C++" />
   <img src="https://shields.io" alt="MySQL" />
