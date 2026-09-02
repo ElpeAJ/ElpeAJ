@@ -8,8 +8,8 @@
 > **Completed Education:** BSc (Hons) Computing (specialization in Information Systems) — **Cumulative GPA: 4.0 / 4.0**  
 > **Credentials:** Intel Certified AI Master Coach (OpenVINO Production Lifecycle)  
 
+<img width="960" height="540" alt="png - AI Intel Mastercoach Elpedia Arthur Junior" src="https://github.com/user-attachments/assets/9b70fb86-7e70-4183-bd25-627415f2edb3" />
 
-[AI Intel Mastercoach Elpedia Arthur Junior.pdf](https://github.com/user-attachments/files/31760856/AI.Intel.Mastercoach.Elpedia.Arthur.Junior.pdf)
 
 [L4 Certificate & Transcript.pdf](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)
 
