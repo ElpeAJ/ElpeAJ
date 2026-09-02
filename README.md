@@ -1,10 +1,7 @@
-<!-- <p align="left">
-  <img src="https://herokuapp.com" alt="Typing SVG" />
-</p> -->
 
-# 👋 Hi, I'm Elpedia J. Arthur
+# Hi, I'm Elpedia J. Arthur
 
-### Entry Level Full-Stack Engineer | Aspiring AI Engineer & CISO
+### Entry Level Full-Stack Engineer, Aspiring AI Engineer & CISO
 > **Completed Education:** BSc (Hons) Computing (specialization in Information Systems) — **Cumulative GPA: 4.0 / 4.0**  
 > **Credentials:** Intel Certified AI Master Coach (OpenVINO Production Lifecycle)  
 
