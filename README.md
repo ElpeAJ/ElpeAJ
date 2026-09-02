@@ -1,4 +1,4 @@
-[L4 Certificate & Transcript.pdf](https://github.com/user-attachments/files/31760863/L4.Certificate.Transcript.pdf)<!-- <p align="left">
+<!-- <p align="left">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p> -->
 
