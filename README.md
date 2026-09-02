@@ -1,14 +1,24 @@
-<!-- <p align="left">
+[L4 Certificate & Transcript.pdf](https://github.com/user-attachments/files/31760863/L4.Certificate.Transcript.pdf)<!-- <p align="left">
   <img src="https://herokuapp.com" alt="Typing SVG" />
 </p> -->
 
 # 👋 Hi, I'm Elpedia J. Arthur
 
-### 🚀 Systems Analyst & Full-Stack Engineer | Aspiring Data Scientist & AI Specialist
+### Entry Level Full-Stack Engineer | Aspiring AI Engineer & CISO)
+> **Completed Education:** BSc (Hons) Computing (specialization in Information Systems) — **Cumulative GPA: 4.0 / 4.0**  
+> **Credentials:** Intel Certified AI Master Coach (OpenVINO Production Lifecycle)  
 
-> 🎓 **Academic Standing:** BSc (Hons) Computing — **Perfect Cumulative GPA: 4.0 / 4.0**  
-> 🤖 **Credentials:** Intel Certified AI Master Coach (OpenVINO Production Lifecycle)  
-> ⚙️ **Core Focus:** Relational Database Normalization, Full-Stack Architectures, & Systems Analysis  
+
+[AI Intel Mastercoach Elpedia Arthur Junior.pdf](https://github.com/user-attachments/files/31760856/AI.Intel.Mastercoach.Elpedia.Arthur.Junior.pdf)
+
+[L4 Certificate & Transcript.pdf](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)
+
+[Completion Certificate | IBM SkillsBuild.pdf](https://github.com/user-attachments/files/31760820/Completion.Certificate.IBM.SkillsBuild.pdf)
+
+[Completion Certificate | SkillsBuild copy.pdf](https://github.com/user-attachments/files/31760833/Completion.Certificate.SkillsBuild.copy.pdf)
+
+
+
 
 Welcome to my digital development ecosystem. I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge the gap between user-centered design and secure backend engineering while actively translating algorithmic theory into production-ready data science implementations.
 
