@@ -44,6 +44,9 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 <img width="300" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
 
+<img width="300" alt="alx-aice-ai-career-essentials-certificate-elpedia-arthur-junior" src="https://github.com/user-attachments/assets/dfc098a8-d316-4c22-8a76-b7cd09c2dac8" />
+
+
 <img width="300" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
 
 <img width="300" alt="png Elpedia Junior Arthur - WT" src="https://github.com/user-attachments/assets/1880d6ba-ae03-4325-b86b-68d34b5e8017" />
@@ -145,4 +148,24 @@ The following are OCR-style transcriptions of the certificates as provided; reci
 * 🐙 **Primary Research Focus:** Relational Database Normalization, Secure Cryptographic Authentication Methods, Predictive Modeling.
 
 ---
+
+<img width="1343" height="685" alt="Screenshot 2026-09-03 at 12 49 40 AM" src="https://github.com/user-attachments/assets/bf4cd309-089b-436a-bcc8-d3638308902a" />
+
+https://app.letsdefend.io/my-rewards/detail/d4cb5331-44bb-4306-b292-a9274ff27366
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
