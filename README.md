@@ -50,6 +50,8 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 <img width="300" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
 
+<img width="300" alt="Screenshot 2026-09-03 at 12 49 40 AM" src="https://github.com/user-attachments/assets/bf4cd309-089b-436a-bcc8-d3638308902a" />
+
 <img width="300"  alt="png L4 Certificate   Transcript" src="https://github.com/user-attachments/assets/16cbd83e-1791-4955-b84d-42e60ab0e062" />
 
 <img width="300" alt="png L6 BSC Degree" src="https://github.com/user-attachments/assets/a5487a1b-fe59-4c17-8e32-3df3648c6c4c" />
