@@ -8,12 +8,12 @@
 
 
 <!-- Header image placeholder: add assets/cert-1.png in the branch to display -->
-[![Header image](assets/cert-1.png)](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)
+<!-- [![Header image](assets/cert-1.png)](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)
 
 
 [L4 Certificate & Transcript.pdf](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)  
 [Completion Certificate | IBM SkillsBuild.pdf](https://github.com/user-attachments/files/31760820/Completion.Certificate.IBM.SkillsBuild.pdf)  
-[Completion Certificate | SkillsBuild copy.pdf](https://github.com/user-attachments/files/31760833/Completion.Certificate.SkillsBuild.copy.pdf)
+[Completion Certificate | SkillsBuild copy.pdf](https://github.com/user-attachments/files/31760833/Completion.Certificate.SkillsBuild.copy.pdf). -->
 
 
 Welcome to my digital development ecosystem. I am an analytical computing professional specializing in full-stack architectures, relational database security, and data pipeline optimization. I bridge detailed systems thinking with practical engineering to build reliable, secure, and maintainable applications.
@@ -45,9 +45,6 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 <img width="300" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
 
 <img width="300" alt="alx-aice-ai-career-essentials-certificate-elpedia-arthur-junior" src="https://github.com/user-attachments/assets/dcad172b-2c80-4429-b69d-651cf05f0521" />
-
-<img width="300" alt="alx-aice-ai-career-essentials-certificate-elpedia-arthur-junior" src="https://github.com/user-attachments/assets/dfc098a8-d316-4c22-8a76-b7cd09c2dac8" />
-
 
 <img width="300" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
 
