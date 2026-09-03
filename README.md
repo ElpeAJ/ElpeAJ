@@ -40,6 +40,19 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 <!-- Placeholder thumbnails: commit the assets/cert-1.png ... cert-6.png files to the same branch to make these images show up. -->
 
+<img width="340" alt="png - AI Intel Mastercoach Elpedia Arthur Junior" src="https://github.com/user-attachments/assets/e569966b-41bb-453e-8431-9ea9ea9698c7" />
+
+<img width="340" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
+
+<img width="340" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
+
+<img width="340" alt="png Elpedia Junior Arthur - WT" src="https://github.com/user-attachments/assets/1880d6ba-ae03-4325-b86b-68d34b5e8017" />
+
+<img width="340"  alt="png L4 Certificate   Transcript" src="https://github.com/user-attachments/assets/16cbd83e-1791-4955-b84d-42e60ab0e062" />
+
+<img width="340" alt="png L6 BSC Degree" src="https://github.com/user-attachments/assets/a5487a1b-fe59-4c17-8e32-3df3648c6c4c" />
+
+<!--
 <img width="960" height="540" alt="png - AI Intel Mastercoach Elpedia Arthur Junior" src="https://github.com/user-attachments/assets/e569966b-41bb-453e-8431-9ea9ea9698c7" />
 
 <img width="792" height="612" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
@@ -50,7 +63,7 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 <img width="340" height="486" alt="png L4 Certificate   Transcript" src="https://github.com/user-attachments/assets/16cbd83e-1791-4955-b84d-42e60ab0e062" />
 
-<img width="1615" height="2260" alt="png L6 BSC Degree" src="https://github.com/user-attachments/assets/a5487a1b-fe59-4c17-8e32-3df3648c6c4c" />
+<img width="1615" height="2260" alt="png L6 BSC Degree" src="https://github.com/user-attachments/assets/a5487a1b-fe59-4c17-8e32-3df3648c6c4c" /> -->
 
 [![Certificate 1](assets/cert-1.png)](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)  
 [![Certificate 2](assets/cert-2.png)](https://github.com/user-attachments/files/31760820/Completion.Certificate.IBM.SkillsBuild.pdf)  
