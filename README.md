@@ -42,13 +42,13 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 <img width="300" alt="png - AI Intel Mastercoach Elpedia Arthur Junior" src="https://github.com/user-attachments/assets/e569966b-41bb-453e-8431-9ea9ea9698c7" />
 
-<img width="300" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
+<img width="300" alt="png Elpedia Junior Arthur - WT" src="https://github.com/user-attachments/assets/1880d6ba-ae03-4325-b86b-68d34b5e8017" />
 
 <img width="300" alt="alx-aice-ai-career-essentials-certificate-elpedia-arthur-junior" src="https://github.com/user-attachments/assets/dcad172b-2c80-4429-b69d-651cf05f0521" />
 
-<img width="300" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
+<img width="300" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
 
-<img width="300" alt="png Elpedia Junior Arthur - WT" src="https://github.com/user-attachments/assets/1880d6ba-ae03-4325-b86b-68d34b5e8017" />
+<img width="300" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
 
 <img width="300"  alt="png L4 Certificate   Transcript" src="https://github.com/user-attachments/assets/16cbd83e-1791-4955-b84d-42e60ab0e062" />
 
