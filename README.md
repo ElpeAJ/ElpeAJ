@@ -22,15 +22,15 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 ## 🛠️ Unified Technical Stack
 
-### 💻 Presentation Layer & Client-Side Architectures
+### Presentation Layer & Client-Side Architectures
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=for-the-badge)
 
-### ⚙️ Systems Engineering & Relational Backends
+### Systems Engineering & Relational Backends
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)
 
-### 🤖 Intelligent Frameworks & Infrastructure
+### Intelligent Frameworks & Infrastructure
 
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-6F42C1?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
 
@@ -39,6 +39,18 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 ## ⚡ Certificates (click thumbnails to open PDFs)
 
 <!-- Placeholder thumbnails: commit the assets/cert-1.png ... cert-6.png files to the same branch to make these images show up. -->
+
+<img width="960" height="540" alt="png - AI Intel Mastercoach Elpedia Arthur Junior" src="https://github.com/user-attachments/assets/e569966b-41bb-453e-8431-9ea9ea9698c7" />
+
+<img width="792" height="612" alt="png Completion Certificate | IBM SkillsBuild" src="https://github.com/user-attachments/assets/6eaa914e-4622-44fa-907e-04dd32f41c37" />
+
+<img width="792" height="612" alt="png Completion Certificate | SkillsBuild copy" src="https://github.com/user-attachments/assets/14e11b08-4a76-4288-b130-b7b45a55f661" />
+
+<img width="841" height="595" alt="png Elpedia Junior Arthur - WT" src="https://github.com/user-attachments/assets/1880d6ba-ae03-4325-b86b-68d34b5e8017" />
+
+<img width="340" height="486" alt="png L4 Certificate   Transcript" src="https://github.com/user-attachments/assets/16cbd83e-1791-4955-b84d-42e60ab0e062" />
+
+<img width="1615" height="2260" alt="png L6 BSC Degree" src="https://github.com/user-attachments/assets/a5487a1b-fe59-4c17-8e32-3df3648c6c4c" />
 
 [![Certificate 1](assets/cert-1.png)](https://github.com/user-attachments/files/31760873/L4.Certificate.Transcript.pdf)  
 [![Certificate 2](assets/cert-2.png)](https://github.com/user-attachments/files/31760820/Completion.Certificate.IBM.SkillsBuild.pdf)  
@@ -50,7 +62,7 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 ---
 
-## 🔍 Certificates (OCR transcriptions)
+##  Certificates
 
 The following are OCR-style transcriptions of the certificates as provided; recipient name is included per your request.
 
