@@ -1,6 +1,6 @@
 <!-- Cleaned README with working badges, certificate image placeholders, and OCR transcriptions -->
 
-# 👋 Hi, I'm Elpedia J. Arthur 💼 LinkedIn Profile: [linkedin.com/in/elpediaarthur](https://www.linkedin.com/in/elpediaarthur)
+# 👋 Hi, I'm Elpedia J. Arthur 💼 [LinkedIn Profile:](https://www.linkedin.com/in/elpediaarthur)
 
 ### Entry Level Full-Stack Engineer | Aspiring AI Engineer & CISO
 > **Completed Education:** BSc (Hons) Computing (specialization in Information Systems) — **Cumulative GPA: 4.0 / 4.0**  
@@ -53,35 +53,45 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 * **Technical Focus:**  ...
 * **Stack:** markdown & Capstone Project [Ga Central Incident Investigation](https://github.com/ElpeAJ/Ga-Central-Incident-Investigation)
 
-### [🛍️ Smart Grocery App](https://github.com/ElpeAJ/Smart_Grocery_App)
+### 🛍️ [Smart Grocery App](https://github.com/ElpeAJ/Smart_Grocery_App)
 * **Architecture:** Full-stack decoupled ecosystem containing a mobile client platform (`/smart-grocery-mobile`) interacting symmetrically with a robust back-end network structure (`/backend`).
 * **Technical Focus:** Native Mobile Framework Compilation, Asynchronous Request Lifecycles, and Input Validation Logic patterns.
 * **Stack:** React Native, Expo Engine, Node.js API Gateways, Git, Local Device Simulators.
 
-### [⛅ Weather Data Pipeline App]()
+### ⛅ [Weather Data Pipeline App](https://github.com/ElpeAJ/weather_app)
 * **Architecture:** An event-driven data ingestion utility engineered to intercept, map, and output third-party environmental datasets.
 * **Technical Focus:** Promise Lifecycle Resolution, UNIX Timestamp Conversions, Non-blocking DOM Operations, and Error Boundary Array Traversals.
 * **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
 
-### [🎟️ Eventvet Ticket Engine]()
-* **Architecture:** Decoupled full-stack ticketing engine leveraging an asynchronous client interface supported by a structured database schema layer.
-* **Technical Focus:** Relational Database Migrations via ORMs, Token-Driven Session Hashing, Route Verification Guarding, and Dynamic UI Hydration.
-* **Stack:** Vanilla JavaScript (ES6+), Node.js, Sequelize ORM, MySQL Relational Database, BcryptJS Security.
+###  [PHD Academic Portfolio site]((https://elpeaj.github.io/academic-site)
+* **Architecture:** ...
+* **Technical Focus:** ...
+* **Stack:** HTML, CSS, JS, Google Fonts 
+
+### 🎟️ [Eventvet Ticket Engine](https://github.com/ElpeAJ/eventvet)
+* **Architecture:** An event-driven data ingestion utility engineered to intercept, map, and output third-party environmental datasets.
+* **Technical Focus:** Promise Lifecycle Resolution, UNIX Timestamp Conversions, Non-blocking DOM Operations, and Error Boundary Array Traversals.
+* **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
+
+---
 
 ###  Tech4Girls Source Codes
 * **Architecture:**  ...
 * **Technical Focus:**  ...
 * **Stack:** HTML, CSS, JS
-* **Source Code 1:** [Practise Media Queries]
-* **Source Code 2:** [Practise JS Fundamentals]
-* **Source Code 3:** [Practise JS Datatypes]
-* **Source Code 4:** [Practise JS Conditionals]
-* **Source Code 5:** [Practise JS Functions]
-* **Source Code 6:** [Practise JS DOM]
-* **Source Code 7:** [Mock ATM 1]
-* **Source Code 8:** [Mock ATM 2]
-* **Source Code 8:** [Mock ATM 2]
-* **Source Code 8:** [Mock ATM 2]
+* **Source Code 01:** [Practise Media Queries](https://github.com/ElpeAJ/SC_Media-Queries)
+* **Source Code 02:** [Practise JS Fundamentals](https://github.com/ElpeAJ/SC_JS_fundamentals)
+* **Source Code 03:** [Practise JS Datatypes](https://github.com/ElpeAJ/SC_JS_Datatypes)
+* **Source Code 04:** [Practise JS Conditionals](https://github.com/ElpeAJ/SC_JS_Conditionals)
+* **Source Code 05:** [Practise JS Functions](https://github.com/ElpeAJ/SC_JS_Functions)
+* **Source Code 06:** [Practise JS DOM](https://github.com/ElpeAJ/SC_JS_DOM)
+* **Source Code 07:** [Practise JS Eventlisteners](https://github.com/ElpeAJ/SC_JS_Event_EventListeners)
+* **Source Code 08:** [Mock ATM 1](https://github.com/ElpeAJ/SC_T4G_ATM1)
+* **Source Code 09:** [Mock ATM 2](https://github.com/ElpeAJ/SC_T4G_ATM2)
+* **Source Code 10:** [Mock Scholarship Application](https://github.com/ElpeAJ/SC_T4G_Scholarship_Application)
+* **Source Code 10:** [Mock Theme Switcher & Interactive Counter](https://github.com/ElpeAJ/SC_theme_switcher_interactive_counter)
+* **Source Code 11:** [Mock Profile Card Theme](https://github.com/ElpeAJ/SC_T4G_Profile_Card_Theme_Switcher_DOM)
+* **GitHub Contribution:** [Practise Open Source contribution - C5 Profiles](https://github.com/ElpeAJ/C5_student_profiles)
 
 ---
 
@@ -172,6 +182,7 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 
 ---
 
+<!--
 ## Featured Engineering Repositories
 
 ### 🛍️ Smart Grocery App
@@ -190,10 +201,10 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 * **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
 
 ---
+-->
 
 ## 👥 Professional Engagement & Networking
-
-* 💼 **LinkedIn Profile:** [linkedin.com/in/elpediaarthur](https://www.linkedin.com/in/elpediaarthur)
+* 💼 [**LinkedIn Profile:**](https://www.linkedin.com/in/elpediaarthur)
 * 🐙 **Primary Research Focus:** Relational Database Normalization, Secure Cryptographic Authentication Methods, Predictive Modeling.
 
 ---
