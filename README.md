@@ -1,6 +1,6 @@
 <!-- Cleaned README with working badges, certificate image placeholders, and OCR transcriptions -->
 
-# 👋 Hi, I'm Elpedia J. Arthur 💼 [LinkedIn Profile:](https://www.linkedin.com/in/elpediaarthur)
+# 👋 Hi, I'm Elpedia J. Arthur 💼 [LinkedIn Profile](https://www.linkedin.com/in/elpediaarthur)
 
 ### Entry Level Full-Stack Engineer | Aspiring AI Engineer & CISO
 > **Completed Education:** BSc (Hons) Computing (specialization in Information Systems) — **Cumulative GPA: 4.0 / 4.0**  
@@ -63,10 +63,10 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 * **Technical Focus:** Promise Lifecycle Resolution, UNIX Timestamp Conversions, Non-blocking DOM Operations, and Error Boundary Array Traversals.
 * **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
 
-###  [PHD Academic Portfolio site]((https://elpeaj.github.io/academic-site)
+###  [PHD Academic Portfolio site](https://github.com/ElpeAJ/academic-site/blob/main/README.md)
 * **Architecture:** ...
 * **Technical Focus:** ...
-* **Stack:** HTML, CSS, JS, Google Fonts 
+* **Stack:** HTML, CSS, JS, Google Fonts [Deployed site](https://elpeaj.github.io/academic-site)
 
 ### 🎟️ [Eventvet Ticket Engine](https://github.com/ElpeAJ/eventvet)
 * **Architecture:** An event-driven data ingestion utility engineered to intercept, map, and output third-party environmental datasets.
