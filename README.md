@@ -1,6 +1,6 @@
 <!-- Cleaned README with working badges, certificate image placeholders, and OCR transcriptions -->
 
-# 👋 Hi, I'm Elpedia J. Arthur
+# 👋 Hi, I'm Elpedia J. Arthur 💼 LinkedIn Profile: [linkedin.com/in/elpediaarthur](https://www.linkedin.com/in/elpediaarthur)
 
 ### Entry Level Full-Stack Engineer | Aspiring AI Engineer & CISO
 > **Completed Education:** BSc (Hons) Computing (specialization in Information Systems) — **Cumulative GPA: 4.0 / 4.0**  
@@ -33,6 +33,55 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 ### Intelligent Frameworks & Infrastructure
 
 ![OpenVINO](https://img.shields.io/badge/OpenVINO-6F42C1?style=for-the-badge) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge)
+
+---
+
+## Featured Engineering Repositories
+
+###  [Security Information and Event Management (SIEM) APP](https://github.com/ElpeAJ/GCMA-SIEM)
+* **Architecture:** Log ingestion, Alert triaging, response validation ...
+* **Technical Focus:**  ...
+* **Stack:** Python Library, SteamLit, Panda, Scapy?? ...
+
+###  [Galamsey data Mining with OpenVINO & Orange Data Mining](https://github.com/ElpeAJ/Galamsey-data-mining-pipeline)
+* **Architecture:**  ...
+* **Technical Focus:**  ...
+* **Stack:**  ...
+
+###  [Cybersecurity Notes](https://github.com/ElpeAJ/cybersecurity-sprint-notes)
+* **Architecture:**  ...
+* **Technical Focus:**  ...
+* **Stack:** markdown & Capstone Project [Ga Central Incident Investigation](https://github.com/ElpeAJ/Ga-Central-Incident-Investigation)
+
+### [🛍️ Smart Grocery App](https://github.com/ElpeAJ/Smart_Grocery_App)
+* **Architecture:** Full-stack decoupled ecosystem containing a mobile client platform (`/smart-grocery-mobile`) interacting symmetrically with a robust back-end network structure (`/backend`).
+* **Technical Focus:** Native Mobile Framework Compilation, Asynchronous Request Lifecycles, and Input Validation Logic patterns.
+* **Stack:** React Native, Expo Engine, Node.js API Gateways, Git, Local Device Simulators.
+
+### [⛅ Weather Data Pipeline App]()
+* **Architecture:** An event-driven data ingestion utility engineered to intercept, map, and output third-party environmental datasets.
+* **Technical Focus:** Promise Lifecycle Resolution, UNIX Timestamp Conversions, Non-blocking DOM Operations, and Error Boundary Array Traversals.
+* **Stack:** Asynchronous JavaScript, Third-Party RESTful APIs, Axios, CSS Skeleton Loaders.
+
+### [🎟️ Eventvet Ticket Engine]()
+* **Architecture:** Decoupled full-stack ticketing engine leveraging an asynchronous client interface supported by a structured database schema layer.
+* **Technical Focus:** Relational Database Migrations via ORMs, Token-Driven Session Hashing, Route Verification Guarding, and Dynamic UI Hydration.
+* **Stack:** Vanilla JavaScript (ES6+), Node.js, Sequelize ORM, MySQL Relational Database, BcryptJS Security.
+
+###  Tech4Girls Source Codes
+* **Architecture:**  ...
+* **Technical Focus:**  ...
+* **Stack:** HTML, CSS, JS
+* **Source Code 1:** [Practise Media Queries]
+* **Source Code 2:** [Practise JS Fundamentals]
+* **Source Code 3:** [Practise JS Datatypes]
+* **Source Code 4:** [Practise JS Conditionals]
+* **Source Code 5:** [Practise JS Functions]
+* **Source Code 6:** [Practise JS DOM]
+* **Source Code 7:** [Mock ATM 1]
+* **Source Code 8:** [Mock ATM 2]
+* **Source Code 8:** [Mock ATM 2]
+* **Source Code 8:** [Mock ATM 2]
 
 ---
 
@@ -83,41 +132,38 @@ Welcome to my digital development ecosystem. I am an analytical computing profes
 ---
 
 ##  Certificates
-
-The following are OCR-style transcriptions of the certificates as provided; recipient name is included per your request.
-
-- Certificate A (Intel / Coral Reef — Coach Certificate)
+- Intel / Coral Reef — Coach Certificate
   - Empowering Lives with Technology
   - Elpedia Junior Arthur is certified as a Coach of AI for Youth Program in Ghana on 05/30/2025.
   - Signatures: Sarah Kemp, Vice President, International Government Policy and Trade, Intel; Oko Nerquaye-Tetteh, Education Team Lead, Coral Reef Innovation Africa
 
-- Certificate B (Level 4 Diploma in Computing with Business Management)
+- Level 4 Diploma in Computing with Business Management
   - Level 4 Diploma in Computing (with Business Management)
   - Qualification Number: 600/0406/X
-  - This is to certify that Elpedia Junior Arthur has successfully achieved a Distinction mark of 77% in the above qualification awarded by NCC Education and delivered by IPMC College of Technology, Ghana
+  - This is to certify that Elpedia Junior Arthur has successfully achieved a Distinction mark of 71% in the above qualification awarded by NCC Education and delivered by IPMC College of Technology, Ghana
   - Date: 19 January 2024
   - Verification: Ofqual / register.ofqual.gov.uk
 
-- Certificate C (IBM SkillsBuild — AI Ethics)
+- IBM SkillsBuild — AI Ethics
   - IBM SkillsBuild — Completion Certificate
   - This certificate is presented to Elpedia Junior Arthur for the completion of AI Ethics (ALM-COURSE_4058927)
   - According to the Adobe Learning Manager system of record
   - Completion date: 25 Aug 2026 (GMT); Learning hours: 1 hr 45 mins
 
-- Certificate D (IBM SkillsBuild — Responding to Live Cybersecurity Incidents Using Generative AI)
+- IBM SkillsBuild — Responding to Live Cybersecurity Incidents Using Generative AI
   - IBM SkillsBuild — Completion Certificate
   - This certificate is presented to Elpedia Junior Arthur for the completion of Responding to Live Cybersecurity Incidents Using Generative AI (ALM-COURSE_4068914)
   - According to the Adobe Learning Manager system of record
   - Completion date: 29 Aug 2026 (GMT); Learning hours: 20 mins
 
-- Certificate E (Women Techsters — Certificate of Completion)
-  - CERTIFICATE OF COMPLETION — Women Techsters
+- Women Techsters — Certificate of Completion
+  - Software Engineering - CERTIFICATE OF COMPLETION
   - This certificate is conferred upon Elpedia Junior Arthur for the successful completion of 1 year intensive training in Software Development (Frontend) learning track of Women Techsters Fellowship Program
   - (Magna Cum Laude)
   - Signatures: Olabisi Etuk — Programs Lead, Women Techsters; Oladiwura Oladepo — Co-Founder/Executive Director, Tech4Dev
   - Date: 31ST OCTOBER 2024
 
-- Certificate F (ALX — AI Career Essentials Certificate of Achievement)
+- ALX — AI Career Essentials Certificate of Achievement
   - CERTIFICATE OF ACHIEVEMENT — ALX / AI Career Essentials
   - Proudly Presented to Elpedia Junior Arthur for successfully completing an 8-week programme in AI Augmented Professional Development Skills in the Digital Age
   - Signatures: Fred Swaniker — Founder & CEO, AI Group; Jaco Jansen Van Rensburg �� VP of Learning, ALX
@@ -126,7 +172,7 @@ The following are OCR-style transcriptions of the certificates as provided; reci
 
 ---
 
-## 🔬 Featured Engineering Repositories
+## Featured Engineering Repositories
 
 ### 🛍️ Smart Grocery App
 * **Architecture:** Full-stack decoupled ecosystem containing a mobile client platform (`/smart-grocery-mobile`) interacting symmetrically with a robust back-end network structure (`/backend`).
